@@ -1,8 +1,10 @@
-# comic_app
+# Manga App
 
-A new Flutter project.
+- By Nguyen Van An, Bui Viet Quang, Bui Dinh Loc
 
-## Getting Started
+# Framework
+
+- Flutter 
 
 This project is a starting point for a Flutter application.
 
