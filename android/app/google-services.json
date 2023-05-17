@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273132779636",
+    "firebase_url": "https://manga-app-8a3b4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "manga-app-8a3b4",
+    "storage_bucket": "manga-app-8a3b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273132779636:android:785865e0bbb56f32ecb921",
+        "android_client_info": {
+          "package_name": "com.manga.ann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273132779636-2bkheppq2b0jd8mlvd7immecs4uttclr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE5WR_JBu6my_SWPTqPH08rZCzvbGl06g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273132779636-2bkheppq2b0jd8mlvd7immecs4uttclr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

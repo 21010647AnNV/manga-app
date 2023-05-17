@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-main-9:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.manga.ann.app-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.manga.ann.app-main-9:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-main-9:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.manga.ann.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.manga.ann.app-main-9:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-main-9:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.manga.ann.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.manga.ann.app-main-9:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-merged_res-16:/drawable-v21_launch_background.xml.flat",
+        "source": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-main-9:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-main-9:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.manga.ann.app-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.manga.ann.app-main-9:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/nguyenan362/.gradle/daemon/7.6/com.manga.ann.app-main-9:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.manga.ann.app-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.manga.ann.app-main-9:/mipmap-mdpi/ic_launcher.png"
+    }
+]

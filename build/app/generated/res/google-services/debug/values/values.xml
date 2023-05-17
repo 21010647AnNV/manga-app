@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">273132779636-2bkheppq2b0jd8mlvd7immecs4uttclr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://manga-app-8a3b4-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">273132779636</string>
+    <string name="google_api_key" translatable="false">AIzaSyDE5WR_JBu6my_SWPTqPH08rZCzvbGl06g</string>
+    <string name="google_app_id" translatable="false">1:273132779636:android:785865e0bbb56f32ecb921</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDE5WR_JBu6my_SWPTqPH08rZCzvbGl06g</string>
+    <string name="google_storage_bucket" translatable="false">manga-app-8a3b4.appspot.com</string>
+    <string name="project_id" translatable="false">manga-app-8a3b4</string>
+</resources>
