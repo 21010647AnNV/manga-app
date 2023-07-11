@@ -1,7 +1,7 @@
 import 'dart:developer';
 
 import 'package:comic_app/features/main_screen/build_widgets/build_post_card.dart';
-import 'package:comic_app/model/manga/manga.dart';
+// import 'package:comic_app/model/manga/manga.dart';
 import 'package:flutter/material.dart';
 
 import '../../../model/covers/cover.dart';

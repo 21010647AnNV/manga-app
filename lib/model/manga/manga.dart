@@ -1,4 +1,4 @@
-import 'dart:developer';
+// import 'dart:developer';
 import 'package:comic_app/model/manga/data.dart';
 
 class MangaModel {

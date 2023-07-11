@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:comic_app/features/chapter_screen/repository/chapter_repo.dart';
-import 'package:comic_app/model/chapter/list_chapter.dart';
+// import 'package:comic_app/model/chapter/list_chapter.dart';
 import 'package:comic_app/model/one_chapter/one_chapter.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

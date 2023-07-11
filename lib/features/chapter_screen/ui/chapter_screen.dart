@@ -26,7 +26,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
       appBar: AppBar(
         actions: <Widget>[
           IconButton(
-            icon: Icon(Icons.logout),
+            icon: const Icon(Icons.logout),
             onPressed: () {
               FirebaseAuth.instance.signOut();
               Navigator.pushNamedAndRemoveUntil(context, '/', (route) => false);

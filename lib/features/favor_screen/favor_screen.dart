@@ -13,7 +13,7 @@ class _FavoScreenState extends State<FavoScreen> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        backgroundColor: Color.fromARGB(255, 60, 172, 247),
+        backgroundColor: const Color.fromARGB(255, 60, 172, 247),
         title: const Text(
           'Favorite',
           style: TextStyle(fontSize: 25),

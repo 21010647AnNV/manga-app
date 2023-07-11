@@ -97,9 +97,7 @@ class _MainScreenState extends State<MainScreen> {
       ],
       centerTitle: true,
       backgroundColor: const Color(0xff19A7CE),
-      title: const Text(
-        'Wibuh',
-        style: TextStyle(fontSize: 25),
+      title: const Text('Manga App', style: TextStyle(fontSize: 25),
       ),
     );
   }
