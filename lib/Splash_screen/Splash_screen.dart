@@ -26,7 +26,7 @@ class SplashScreen extends StatelessWidget {
           return const SignInScreen();
         }),
       splashIconSize: 250,
-      splashTransition: SplashTransition.fadeTransition,
+      splashTransition: SplashTransition.scaleTransition,
       // duration: 2000,
         );
   }

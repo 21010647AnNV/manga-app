@@ -1,4 +1,4 @@
-#Sat Jun 17 20:36:58 ICT 2023
+#Thu Sep 21 17:28:28 ICT 2023
 base.0=/home/nguyenan362/mobile/manga-app/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/nguyenan362/mobile/manga-app/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
 base.2=/home/nguyenan362/mobile/manga-app/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
